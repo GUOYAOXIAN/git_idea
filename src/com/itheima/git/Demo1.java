@@ -6,4 +6,8 @@ public class Demo1 {
         System.out.println(".....");
         System.out.println(".....");
     }
+
+    public void Demo2(){
+        System.out.println(2);
+    }
 }
